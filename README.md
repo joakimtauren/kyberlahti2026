@@ -1,6 +1,6 @@
 # Kyberlahti 2025: The Translation Layer
 
-This repository contains the source code, presentation scripts, and AI agentic skills used to create the Kyberlahti 2025 keynote.
+This repository contains the source code, presentation scripts, and AI agentic skills used to create the Kyberlahti 2025 presentation.
 
 This presentation was built using a unique hybrid approach, blending human narrative architecture with multi-agent AI collaboration and synthesis.
 
@@ -8,7 +8,6 @@ This presentation was built using a unique hybrid approach, blending human narra
 
 * **`presentation_script.md`**: The final approved speaker script, complete with click cues and pacing notes. It implements the "Lossless Compression" (Anchor, Mechanism, Impact) framework for educating non-technical audiences on complex cybersecurity topics.
 * **`react-presentation/`**: The technical implementation. A custom-built React and Framer Motion frontend to deliver high-end, cinematic web-based slide experiences.
-* **`final_presentation.html` & `final_presentation_keynote.html`**: The standalone HTML versions showcasing the visual outputs of the presentation.
 * **`agent_skills/`**: The core AI "personas" used to engineer this presentation. These folders demonstrate the system prompts, capabilities, and workflows used by the AI agents that collaborated on this project.
 
 ## The Agentic "Translation Layer"
