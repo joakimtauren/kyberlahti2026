@@ -8,6 +8,7 @@ This presentation was built using a unique hybrid approach, blending human narra
 
 * **`presentation_script.md`**: The final approved speaker script, complete with click cues and pacing notes. It implements the "Lossless Compression" (Anchor, Mechanism, Impact) framework for educating non-technical audiences on complex cybersecurity topics.
 * **`react-presentation/`**: The technical implementation. A custom-built React and Framer Motion frontend to deliver high-end, cinematic web-based slide experiences.
+* **`google_flow_prompts.md`**: The exact Imagen 3 and Veo 3.1 prompts used to generate the hyper-realistic, cinematic visual assets based on the Buffalo 7 and Stinson Design aesthetic profiles.
 * **`agent_skills/`**: The core AI "personas" used to engineer this presentation. These folders demonstrate the system prompts, capabilities, and workflows used by the AI agents that collaborated on this project.
 
 ## The Agentic "Translation Layer"
