@@ -1,6 +1,6 @@
-# Kyberlahti 2025: The Translation Layer
+# Kyberlahti 2026: The Translation Layer
 
-This repository contains the source code, presentation scripts, and AI agentic skills used to create the Kyberlahti 2025 presentation.
+This repository contains the source code, presentation scripts, and AI agentic skills used to create the Kyberlahti 2026 presentation.
 
 This presentation was built using a unique hybrid approach, blending human narrative architecture with multi-agent AI collaboration and synthesis.
 
